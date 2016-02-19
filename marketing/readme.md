@@ -1,6 +1,7 @@
 #Template de card para Facebook.
 
-Infos:
+##Infos para utilização:
+
 Fonte utilizada: [Raleway](https://www.google.com/fonts/specimen/Raleway)
 
 Paleta de cores:
