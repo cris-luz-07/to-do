@@ -2,7 +2,7 @@
 
 ##Infos para utilização:
 
-Fonte utilizada: [Raleway](https://www.google.com/fonts/specimen/Raleway)
+Fonte utilizada: [Signika](https://www.google.com/fonts/specimen/Signika)
 
 Paleta de cores:
 * Background: #21262A
